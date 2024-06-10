@@ -1,7 +1,4 @@
 # linearalgebra-toolkit-matlab
-Here is an extended version of the README.md document for your MATLAB Linear Algebra and Data Analysis Toolkit repository on GitHub. This version includes more detailed instructions on how to access and set up the library, as well as enhanced usage examples and explanations.
-
----
 
 # MATLAB Linear Algebra and Data Analysis Toolkit
 
