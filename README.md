@@ -1,7 +1,7 @@
 # MATLAB Linear Algebra and Data Analysis Toolkit
 
 ## Introduction
-This repository offers a collection of MATLAB functions designed to facilitate various operations in linear algebra and data analysis. These functions enable users to perform matrix operations, analyze data through techniques such as polynomial fitting and principal component analysis, and determine various mathematical spaces and subspaces associated with matrices.
+This repository offers a collection of MATLAB functions designed to perform various operations in linear algebra and data analysis. These functions perform matrix operations, analyze data through techniques such as polynomial fitting and principal component analysis, and determine various mathematical spaces and subspaces associated with matrices.
 
 ## Function Descriptions
 
