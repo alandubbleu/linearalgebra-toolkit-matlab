@@ -1,5 +1,3 @@
-# linearalgebra-toolkit-matlab
-
 # MATLAB Linear Algebra and Data Analysis Toolkit
 
 ## Introduction
