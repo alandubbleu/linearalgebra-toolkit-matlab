@@ -121,7 +121,7 @@ The fitted polynomial coefficients are:
     1.1678
 ```
 
-![Polynomial Fit to Data](images/polynomial_fit_example.png) *This image would be a plot resulting from the above script.*
+*in the mlx file, a plot would display heret*
 
 ### Principal Component Analysis Example
 
