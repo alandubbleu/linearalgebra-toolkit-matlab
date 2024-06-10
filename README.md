@@ -52,7 +52,7 @@ To utilize these functions, you need to download the repository and include the 
 1. **Clone the Repository:**
    Open your terminal and clone the repository using Git:
    ```bash
-   git clone https://github.com/alandubbleu/MATLAB-Data-Tools.git
+   git clone https://github.com/left-nullspace/MATLAB-Data-Tools.git
    ```
    Replace `yourusername` with your GitHub username or the username of the repository owner.
 
