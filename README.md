@@ -47,27 +47,7 @@ Finds the row space of a matrix, representing all possible linear combinations o
 ## Getting Started
 
 ### Downloading and Installing
-To utilize these functions, you need to download the repository and include the files in your MATLAB environment.
-
-1. **Clone the Repository:**
-   Open your terminal and clone the repository using Git:
-   ```bash
-   git clone https://github.com/left-nullspace/MATLAB-Data-Tools.git
-   ```
-   Replace `yourusername` with your GitHub username or the username of the repository owner.
-
-2. **Download as ZIP:**
-   Alternatively, you can download the repository as a ZIP file from GitHub:
-   - Navigate to the repository page on GitHub.
-   - Click on the `Code` button and select `Download ZIP`.
-   - Once downloaded, extract the ZIP file to your desired location.
-
-3. **Set Up in MATLAB:**
-   Open MATLAB and add the directory containing the repository to your MATLAB path:
-   ```matlab
-   addpath('path_to_directory')
-   ```
-
+To utilize these functions, you need to download the repository and include the files in your MATLAB environment. As long as the functions and the script you are working on are in the same folder, the functions will work. Can be downloaded either through the terminal using git clone or downloaded as a zip and dealt with manually.
 
 ## Examples
 The following examples demonstrate how to use the toolkit's functions effectively. These examples can also be found in the included MATLAB live script file, `sample_usage_livescript.mlx`
